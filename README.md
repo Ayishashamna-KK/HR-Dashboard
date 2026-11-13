@@ -1,4 +1,4 @@
-# HR-Dashboard
+# HR Analytics Dashboard & Employee Attrition Analysis
 📊 Project Overview
 
 This project focuses on analyzing Human Resources (HR) data through interactive dashboards to understand employee distribution, workforce performance, attendance, and employee attrition.
